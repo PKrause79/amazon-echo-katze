@@ -1,4 +1,4 @@
-![Logo](https://github.com/PKrause79/amazon-echo-katze/blob/master/icons/icon_512_A2Z.png)
+![Logo](https://github.com/PKrause79/amazon-echo-katze/blob/master/icons/icon_108_A2Z.png)
 
 # amazon-echo-katze
 > (c) 2019 by Patrick Krause
