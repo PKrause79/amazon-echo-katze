@@ -1,6 +1,6 @@
 ![Logo](https://github.com/PKrause79/amazon-echo-katze/blob/master/icons/icon_108_A2Z.png)
 
-# amazon-echo-katze
+# Bespaße die Katze
 > (c) 2019 by Patrick Krause
 > 
 > Amazon Echo Sill: "Bespaße die Katze"
