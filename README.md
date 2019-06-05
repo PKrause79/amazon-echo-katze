@@ -15,11 +15,11 @@
 "bespaße die katze"
 
 ## Intents
-GetNewCatIntent	
-AMAZON.HelpIntent	
-AMAZON.StopIntent	
-AMAZON.CancelIntent
-AMAZON.NavigateHomeIntent
+GetNewCatIntent<br>
+AMAZON.HelpIntent<br>	
+AMAZON.StopIntent<br>
+AMAZON.CancelIntent<br>
+AMAZON.NavigateHomeIntent<br>
 
 ## Utterances
 Spaß
