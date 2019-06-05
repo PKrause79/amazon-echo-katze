@@ -9,7 +9,7 @@
 > 
 > Sag: "Alexa, bespaße die Katze"
 > 
-> Developed using Node.js / JavaScript
+> Backend-Dienst implementiert mit Node.js / JavaScript (Serverless/AWS-Lambda)
 
 ## Skill Invocation Name
 "bespaße die katze"
